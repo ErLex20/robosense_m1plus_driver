@@ -1,0 +1,12 @@
+robosense_m1plus_driver:
+  ros__parameters:
+    ros_frame_id: rslidar
+    ros_send_point_cloud_topic: /rslidar_points
+    ros_send_difop_topic: /difop
+
+    start_x: 0.0
+    start_y: 0.0
+    start_z: 0.0
+
+    publish_difop: true
+    use_lidar_timer: false
