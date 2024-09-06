@@ -38,7 +38,7 @@ If you are using an M1 Plus as LiDAR but you have the hub for a M1 LiDAR, you ca
 ## Requirements
 
 - **ROS 2**
-- **Robosense M1 Plus Interfaces** (https://github.com/IntelligentSystemsLabUTV/robosense_m1plus_interfaces.git)
+- **Robosense M1 Plus Interfaces**
 
 ## Features
 
